@@ -26,7 +26,7 @@ pip install numpy scipy matplotlib gwpy gwosc
 ```
 
 ### **Usage**
-Simply open the `gw_test.ipynb` notebook and run the cells sequentially. The script will automatically fetch the 32-second data segment centered on GW150914 and generate the corresponding plots.
+Simply open the `gw150914.ipynb` notebook and run the cells sequentially. The script will automatically fetch the 32-second data segment centered on GW150914 and generate the corresponding plots.
 
 ### **License**
 This project is open-source and available under the **MIT License**.
